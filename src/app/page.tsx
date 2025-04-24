@@ -5,7 +5,6 @@ import PopularProduct from "@/components/category/popular-product";
 import SummerSales from "@/components/category/summer-category/summer-sales";
 import HeroProductCard from "@/components/navbar/hero-product-card";
 import HeroSection from "@/components/navbar/hero-section";
-import Image from "next/image";
 
 export default function Home() {
   return (
